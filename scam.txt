@@ -13,5 +13,5 @@
 #
 # Scam list
 #------------------------------------[FILTERS]-------------------------------------
-0.0.0.0 www.sexyandfunny.com
-0.0.0.0 www.malibustrings.com
+10.10.10.1 www.sexyandfunny.com
+10.10.10.1 www.malibustrings.com
